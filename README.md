@@ -50,7 +50,7 @@ git clone https://github.com/6677-ai/tap4-ai-webui.git
 - root folder, create `.env.local` file and fill with values, for example:
 ```sh
 # your domain
-NEXT_PUBLIC_SITE_URL="https://www.tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://aitop10.tools"
 
 # google tracking id and adsense URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"

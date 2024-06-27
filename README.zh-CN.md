@@ -57,7 +57,7 @@ git clone https://github.com/6677-ai/tap4-ai-webui.git
 - 在根目录下，创建 `.env.local` 文件，填入具体数值，例子如下：
 ```sh
 # 你的域名
-NEXT_PUBLIC_SITE_URL="https://www.tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://aitop10.tools"
 
 # 谷歌索引 id 和 广告 URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"
