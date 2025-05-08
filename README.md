@@ -49,8 +49,7 @@ If you find the project helpful, please consider buying me a coffee:
 
 <a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-If you are interested in the project, please add my WeChat: helloleo2023, note: "tap4 ai open source", or scan the QR
-code: ![tap4-ai-wx](./public/images/tap4-ai-wechat.jpg)
+If you are interested in the project, please add my WeChat: helloleo2023, note: "tap4 ai open source"
 
 ## Deployment Instructions
 
@@ -202,7 +201,14 @@ Due to compatibility issues with different site anti-crawling mechanisms, the cr
 such issues, you currently need to manually query the database submit table, and then manually create the relevant
 website content and insert it into the web_navigation table.
 
+### How to get the ai tools for project initialization?
+
+You can get the 13000+ AIs from Tap4 AI collected from other AI Tools Directory in
+[AI Source List](https://github.com/6677-ai/tap4-ai-webui/blob/main/ai_source_list)
+
 ## Wanna submit your website on Tap4.ai?
+
+Open: [Tap4 AI](https://tap4.ai)
 
 ### Wanna add you website to our `/startup` page?
 
@@ -211,40 +217,143 @@ website content and insert it into the web_navigation table.
 
 ## Links to our products
 
-### TAP4-AI-Directory
+### AI Video Online - Advanced AI Video All in One
 
-The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools,
-etc. For more, please visit: [Tap4 AI](https://tap4.ai)
+[AI Video Online](https://videoweb.ai/)
+More about AI Video Online:
+https://www.zhihu.com/pin/1835046959477567488
 
-### How to get your first users for startup at the website list
+### Flux Pro AI - Free Online Flux.1 AI Image Generator
 
-Here is the website list for submit your product to get users. Please visit
-[StartUp Your Product List](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
+[Flux 1.1 Pro](https://fluxproweb.com/)
+More about Flux Pro AI
+https://www.zhihu.com/pin/1832771259513069568
 
-### Free Stable Diffusion 3 Online
 
-Stable Diffusion 3 Medium is currently available for free experience, please visit
-[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online/)
+### Free Stable Diffusion 3 Online Tool
 
-### The Tattoo AI Generator and Design
+[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online)
 
-Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit
-[Tattoo AI Design](https://tattooai.design)
+### Free Tiny Png Tool
 
-## Sponsor List
+[Free Type Png Tool](https://freetinypng.com)
 
-### Anime Girl Studio -- AI Anime Girl Chat & Generator
+### Flux AI - Flux.1 AI Image Generator
 
-Anime Girl Studio is the ai anime girl generator and chat product. You can generate what you like and chat with the AI
-anime girl, please visit [Anime Girl Studio](https://animegirl.studio)
-
-### Best AI Girl Friend -- Best AI Girl Chat & Generator
-
-Best AI Girl Friend is the ai girl generator and chat product. You can generate what you like and chat with the AI anime
-girl, please visit [Best AI Girl Friend](https://aigirl.best)
+[Flux AI](https://flux-ai.io/)
 
 ## Other open source
 
 ### Website content AI crawler
 
 visit: [6677-ai/tap4-ai-crawler](https://github.com/6677-ai/tap4-ai-crawler)
+
+
+#### More AI
+
+### VideoWeb AI
+
+VideoWeb AI is an advanced Image to Video AI Tool. It's currently available for free experience, please visit
+[VideoWeb AI](https://videoweb.ai/)
+
+### Sana AI
+
+Sana AI is an advanced Text to Image / Video AI Tool. It's currently available for free experience, please visit
+[Sana AI](https://sana-ai.com/)
+
+### Photo to Video AI
+
+Photo to Video AI is currently available for free experience, please visit
+[Photo to Video AI](https://dreammachineai.online/)
+
+### Flux KI
+
+Flux KI is the powerful generative AI for German, please visit
+[Flux Pro Image Generator](https://flux-pro.net/)
+
+### Flux IA
+Flux IA is the generative IA for France & Espain, please visit:
+[Flux IA](https://fluxia.pro/)
+
+### Virtual Try On AI
+
+Virtual Try On AI - Free Online Fashion AI for clothes, visit
+[Virtual Try On AI](https://aitryon.art/)
+
+### GPT 4o image generator
+
+Chat 4o build with openai o1 and chatgpt 4o, please visit
+[Chat 4O](https://chat4o.ai/)
+
+### Janus Pro
+
+Janus Pro Image Generator build with Janus Pro Model by DeepSeek, please visit
+[Janus Pro](https://janusproweb.com/)
+
+
+### Grok Image Generator
+
+Grok Image Generator with flux ai, please visit
+[Grok Image Generator](https://grokimagegenerator.net/))
+
+### Free Stable Diffusion 3 Online
+
+Stable Diffusion 3 Medium is currently available for free experience, please visit
+[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online/)
+
+### Artiverse AI Tools Directory
+
+Artiverse AI Tools Directory. If you are interested with it, visit
+[Artiverse AI](https://artiverse.app/)
+
+### The Tattoo AI Generator and Design
+
+Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit
+[Tattoo AI Design](https://tattooai.design)
+
+### Best AI Image Generator
+
+Best AI Image Generator is the most powerful AI Image Generator integrated with Flux AI and Stable Diffusion AI. If you are interested with it, visit
+[Best AI Image Generator](https://bestimage.ai/)
+
+### Dream Companion AI
+
+Let your AI companion take care of your most personal needs with our innovative NSFW AI roleplay experience. If you are interested with it, visit
+[Dream Companion AI](https://www.mydreamcompanion.com/)
+
+### WUI AI
+
+WUI.ai uses AI to turn your long-form videos into short clips. If you are interested with it, visit
+[WUI.AI](https://www.wui.ai/)
+
+
+### Sourcetable AI
+
+Sourcetable AI - Advanced Spreadsheet Software for Data Analysis and Business Intelligence. If you are interested with it, visit
+[Sourcetable AI](https://sourcetable.com)
+
+
+### Remio AI Note Taker
+
+Remio AI Note Taker transforms scattered information into structured knowledge with ease. Designed as your personal AI knowledge hub, it helps you capture, organize, and blend insights seamlessly. Whether you're researching, brainstorming, or writing, remio streamlines your workflow by intelligently managing notes, highlights, and references—all while keeping your data private and secure. Perfect for professionals, students, and creatives, remio turns messy ideas into clear, actionable knowledge. Join the waitlist to experience smarter note-taking today.. If you are interested with it, visit
+[Remio AI Note Taker](https://www.remio.ai/))
+
+
+### Ghibli Art Studio
+
+Ghibli Art Studio - Transform your photos into enchanting Ghibli-style artwork with our online Ghibli Art Studio AI tool. Powered by Studio ghiblify's ghiblify image-to-image technology, create magical Ghibli-inspired visuals faster and more affordably than ever before. If you are interested with it, visit
+[Ghibli Art Studio](https://videoweb.ai/ghibli-studio/)
+
+
+### AI Action Figure Generator
+
+AI Action Figure Generator - Transform Your Photos into Collectible Figures. Experience the magic of becoming a collectible figure by transforming your photos into professional-grade action figures using AI technology. If you are interested with it, visit
+[AI Action Figure Generator](https://flux-ai.io/ai-action-figure-generator/)
+
+### Makeform AI
+Makeform AI is a free online ai form builder like ChatGPT. Chat with AI to build surveys, quizzes, or polls in seconds – no coding needed!  If you are interested with it, visit
+[Makeform AI](https://www.makeform.ai/)
+
+
+
+
